@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.7
-versionCode=8
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=sabrina-stock-btwifi-drivers
+name=Sabrina Stock Bluetooth/Wi-Fi Drivers
+version=v1
+versionCode=1
+author=leonghui
+description=Temporary fix for bluetooth crashes for LOS build

@@ -34,6 +34,10 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
+/system/vendor/etc/bluetooth/BCM4359C0.hcd
+/system/vendor/etc/wifi/buildin/config_bcm4359c0_ag.txt
+/system/vendor/etc/wifi/buildin/fw_bcm4359c0_ag.bin
+/system/vendor/etc/wifi/buildin/nvram_ap6398s.txt
 "
 
 ##########################################################################################
