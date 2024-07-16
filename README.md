@@ -1,3 +1,5 @@
+No longer required since BT/Wifi is fixed in the [official builds](https://download.lineageos.org/devices/sabrina/builds).
+
 <h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
 
 <div align="center">
